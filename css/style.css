@@ -1,0 +1,26 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.center{
+    display:flex;
+    justify-content:center;
+}
+
+ul{
+    padding-left:0;
+    list-style:none;
+}
+
+li{
+    background-color:#FF7F7F;
+    margin-left:25%;
+    margin-right:25%;
+    display:flex;
+    justify-content:center;       
+}
+
+
+
+
